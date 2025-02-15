@@ -1,0 +1,53 @@
+/* App.css */
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #f7f9fc;
+  color: #333;
+}
+
+.container {
+  padding: 20px;
+}
+
+/* Navbar Styles */
+.navbar {
+  background-color: #2d3e50;
+  padding: 10px;
+}
+
+.navbar-brand,
+.nav-link {
+  color: #ffffff !important;
+}
+
+.navbar-brand:hover,
+.nav-link:hover {
+  color: #ffd700 !important;
+  transition: color 0.3s ease;
+}
+
+/* Animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+/* App.css */
+.navbar {
+  background-color: #003366;
+  padding: 10px 20px;
+}
+
+.navbar-brand,
+.nav-link {
+  color: #ffffff !important;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  color: #ffd700 !important;
+  transition: color 0.3s ease;
+}

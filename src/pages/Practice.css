@@ -1,0 +1,32 @@
+/* src/pages/Practice.css */
+.practice-page {
+  background-color: var(--background-color);
+  padding: 2rem;
+}
+
+.card {
+  background: #fff;
+  color: var(--font-color-dark);
+  border-radius: var(--border-radius);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  padding: 1.5rem;
+  transition: all var(--transition-fast);
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 15px rgba(255, 109, 109, 0.3);
+}
+
+input[type="text"] {
+  border: 1px solid var(--primary-color);
+  border-radius: var(--border-radius);
+  padding: 0.5rem;
+  width: 100%;
+  margin-top: 0.5rem;
+  transition: border-color var(--transition-fast);
+}
+
+input[type="text"]:focus {
+  border-color: var(--secondary-color);
+}

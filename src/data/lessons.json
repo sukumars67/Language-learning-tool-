@@ -1,0 +1,285 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Basic Vocabulary",
+      "content": [
+        { "word": "Bonjour", "translation": "Hello" },
+        { "word": "Merci", "translation": "Thank you" },
+        { "word": "Oui", "translation": "Yes" },
+        { "word": "Non", "translation": "No" },
+        { "word": "S'il vous plaît", "translation": "Please" },
+        { "word": "Excusez-moi", "translation": "Excuse me" },
+        { "word": "Pardon", "translation": "Sorry" },
+        { "word": "Bien", "translation": "Well" },
+        { "word": "D'accord", "translation": "Okay" },
+        { "word": "Bienvenue", "translation": "Welcome" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Simple Phrases",
+      "content": [
+        { "word": "Comment ça va?", "translation": "How are you?" },
+        { "word": "Au revoir", "translation": "Goodbye" },
+        { "word": "Bonne nuit", "translation": "Good night" },
+        { "word": "Bonne journée", "translation": "Have a good day" },
+        { "word": "À bientôt", "translation": "See you soon" },
+        { "word": "À demain", "translation": "See you tomorrow" },
+        { "word": "Félicitations", "translation": "Congratulations" },
+        { "word": "Bon appétit", "translation": "Enjoy your meal" },
+        { "word": "À tout à l'heure", "translation": "See you later" },
+        { "word": "Je t'aime", "translation": "I love you" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Numbers",
+      "content": [
+        { "word": "Un", "translation": "One" },
+        { "word": "Deux", "translation": "Two" },
+        { "word": "Trois", "translation": "Three" },
+        { "word": "Quatre", "translation": "Four" },
+        { "word": "Cinq", "translation": "Five" },
+        { "word": "Six", "translation": "Six" },
+        { "word": "Sept", "translation": "Seven" },
+        { "word": "Huit", "translation": "Eight" },
+        { "word": "Neuf", "translation": "Nine" },
+        { "word": "Dix", "translation": "Ten" }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Colors",
+      "content": [
+        { "word": "Rouge", "translation": "Red" },
+        { "word": "Bleu", "translation": "Blue" },
+        { "word": "Vert", "translation": "Green" },
+        { "word": "Jaune", "translation": "Yellow" },
+        { "word": "Noir", "translation": "Black" },
+        { "word": "Blanc", "translation": "White" },
+        { "word": "Gris", "translation": "Gray" },
+        { "word": "Marron", "translation": "Brown" },
+        { "word": "Orange", "translation": "Orange" },
+        { "word": "Violet", "translation": "Purple" }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Days of the Week",
+      "content": [
+        { "word": "Lundi", "translation": "Monday" },
+        { "word": "Mardi", "translation": "Tuesday" },
+        { "word": "Mercredi", "translation": "Wednesday" },
+        { "word": "Jeudi", "translation": "Thursday" },
+        { "word": "Vendredi", "translation": "Friday" },
+        { "word": "Samedi", "translation": "Saturday" },
+        { "word": "Dimanche", "translation": "Sunday" },
+        { "word": "Aujourd'hui", "translation": "Today" },
+        { "word": "Demain", "translation": "Tomorrow" },
+        { "word": "Hier", "translation": "Yesterday" }
+      ]
+    }
+  ],
+  "quiz": {
+    "easy": [
+      {
+        "question": "What does 'Bonjour' mean?",
+        "options": ["Goodbye", "Thank you", "Hello"],
+        "answer": "Hello"
+      },
+      {
+        "question": "How do you say 'Thank you' in French?",
+        "options": ["Bonjour", "Merci", "Salut"],
+        "answer": "Merci"
+      },
+      {
+        "question": "Translate 'Yes' to French.",
+        "options": ["Oui", "Non", "Peut-être"],
+        "answer": "Oui"
+      },
+      {
+        "question": "What is the French word for 'No'?",
+        "options": ["Oui", "Non", "Pas"],
+        "answer": "Non"
+      },
+      {
+        "question": "How do you say 'Goodbye' in French?",
+        "options": ["Salut", "Au revoir", "Merci"],
+        "answer": "Au revoir"
+      },
+      {
+        "question": "Translate 'See you soon' to French.",
+        "options": ["À bientôt", "À demain", "Adieu"],
+        "answer": "À bientôt"
+      },
+      {
+        "question": "Translate 'Hello' to French.",
+        "options": ["Salut", "Bonjour", "Merci"],
+        "answer": "Bonjour"
+      },
+      {
+        "question": "What does 'Pardon' mean?",
+        "options": ["Excuse me", "Sorry", "Thank you"],
+        "answer": "Sorry"
+      },
+      {
+        "question": "Translate 'Monday' to French.",
+        "options": ["Mardi", "Mercredi", "Lundi"],
+        "answer": "Lundi"
+      },
+      {
+        "question": "Translate 'Red' to French.",
+        "options": ["Bleu", "Rouge", "Jaune"],
+        "answer": "Rouge"
+      }
+    ],
+    "medium": [
+      {
+        "question": "What is the French word for 'One'?",
+        "options": ["Deux", "Trois", "Un"],
+        "answer": "Un"
+      },
+      {
+        "question": "What is the French word for 'Tuesday'?",
+        "options": ["Mardi", "Mercredi", "Jeudi"],
+        "answer": "Mardi"
+      },
+      {
+        "question": "Translate 'How are you?' to French.",
+        "options": ["Bonjour", "Comment ça va?", "Merci"],
+        "answer": "Comment ça va?"
+      },
+      {
+        "question": "What is the French word for 'Green'?",
+        "options": ["Vert", "Bleu", "Jaune"],
+        "answer": "Vert"
+      },
+      {
+        "question": "Translate 'Please' to French.",
+        "options": ["Merci", "S'il vous plaît", "Bonjour"],
+        "answer": "S'il vous plaît"
+      },
+      {
+        "question": "What does 'D'accord' mean?",
+        "options": ["Well", "Okay", "Fine"],
+        "answer": "Okay"
+      },
+      {
+        "question": "Translate 'Thursday' to French.",
+        "options": ["Mercredi", "Jeudi", "Vendredi"],
+        "answer": "Jeudi"
+      },
+      {
+        "question": "How do you say 'See you later' in French?",
+        "options": ["À bientôt", "À tout à l'heure", "À demain"],
+        "answer": "À tout à l'heure"
+      },
+      {
+        "question": "What is the French word for 'White'?",
+        "options": ["Noir", "Blanc", "Gris"],
+        "answer": "Blanc"
+      },
+      {
+        "question": "Translate 'Yesterday' to French.",
+        "options": ["Aujourd'hui", "Hier", "Demain"],
+        "answer": "Hier"
+      }
+    ],
+    "hard": [
+      {
+        "question": "What is the French word for 'Ten'?",
+        "options": ["Dix", "Neuf", "Huit"],
+        "answer": "Dix"
+      },
+      {
+        "question": "What does 'Excusez-moi' mean?",
+        "options": ["Excuse me", "Sorry", "Please"],
+        "answer": "Excuse me"
+      },
+      {
+        "question": "Translate 'I love you' to French.",
+        "options": ["Je t'aime", "Merci", "Bonjour"],
+        "answer": "Je t'aime"
+      },
+      {
+        "question": "What is the French word for 'Purple'?",
+        "options": ["Marron", "Violet", "Gris"],
+        "answer": "Violet"
+      },
+      {
+        "question": "Translate 'Saturday' to French.",
+        "options": ["Samedi", "Dimanche", "Vendredi"],
+        "answer": "Samedi"
+      },
+      {
+        "question": "What does 'Bien' mean?",
+        "options": ["Well", "Good", "Fine"],
+        "answer": "Well"
+      },
+      {
+        "question": "Translate 'Tomorrow' to French.",
+        "options": ["Hier", "Demain", "Aujourd'hui"],
+        "answer": "Demain"
+      },
+      {
+        "question": "What is the French word for 'Gray'?",
+        "options": ["Noir", "Gris", "Marron"],
+        "answer": "Gris"
+      },
+      {
+        "question": "Translate 'Enjoy your meal' to French.",
+        "options": ["Bon appétit", "À bientôt", "Merci"],
+        "answer": "Bon appétit"
+      },
+      {
+        "question": "Translate 'Friday' to French.",
+        "options": ["Lundi", "Vendredi", "Mercredi"],
+        "answer": "Vendredi"
+      }
+    ]
+  },
+  "practice": [
+    { "id": 1, "question": "Translate 'Hello' to French", "answer": "Bonjour" },
+    {
+      "id": 2,
+      "question": "Translate 'Thank you' to French",
+      "answer": "Merci"
+    },
+    { "id": 3, "question": "Translate 'Red' to French", "answer": "Rouge" },
+    {
+      "id": 4,
+      "question": "Translate 'Goodbye' to French",
+      "answer": "Au revoir"
+    },
+    { "id": 5, "question": "Translate 'Monday' to French", "answer": "Lundi" },
+    {
+      "id": 6,
+      "question": "Translate 'How are you?' to French",
+      "answer": "Comment ça va?"
+    },
+    {
+      "id": 7,
+      "question": "Translate 'Wednesday' to French",
+      "answer": "Mercredi"
+    },
+    { "id": 8, "question": "Translate 'Two' to French", "answer": "Deux" },
+    { "id": 9, "question": "Translate 'Blue' to French", "answer": "Bleu" },
+    {
+      "id": 10,
+      "question": "Translate 'See you tomorrow' to French",
+      "answer": "À demain"
+    },
+    {
+      "id": 11,
+      "question": "Translate 'Please' to French",
+      "answer": "S'il vous plaît"
+    },
+    { "id": 12, "question": "Translate 'One' to French", "answer": "Un" },
+    {
+      "id": 13,
+      "question": "Translate 'Today' to French",
+      "answer": "Aujourd'hui"
+    }
+  ]
+}

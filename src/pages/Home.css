@@ -1,0 +1,78 @@
+/* src/pages/Home.css */
+.home {
+  background-color: var(--background-color);
+  padding: 2rem;
+  text-align: center;
+  animation: fadeIn var(--transition-slow);
+}
+
+.home-banner {
+  padding: 2rem;
+  background: var(--primary-color);
+  color: #fff;
+  border-radius: var(--border-radius);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  transition: background-color var(--transition-fast);
+}
+
+.home-banner:hover {
+  background-color: var(--secondary-color);
+}
+
+.home-title {
+  font-size: 3rem;
+  animation: float 3s ease-in-out infinite;
+}
+
+.home-subtitle {
+  font-size: 1.2rem;
+  margin-top: 0.5rem;
+}
+
+.home-btn {
+  display: inline-block;
+  background-color: var(--highlight-color);
+  color: var(--font-color-dark);
+  padding: 0.8rem 1.5rem;
+  font-weight: bold;
+  border-radius: 20px;
+  text-decoration: none;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.home-btn:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 15px rgba(255, 109, 109, 0.3);
+}
+
+.home-features {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2rem;
+  gap: 1.5rem;
+}
+
+.feature-card {
+  background: #fff;
+  color: var(--font-color-dark);
+  padding: 1.5rem;
+  border-radius: var(--border-radius);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  transition: transform var(--transition-fast);
+}
+
+.feature-card:hover {
+  transform: scale(1.05);
+}
+
+.feature-link {
+  display: block;
+  color: var(--primary-color);
+  margin-top: 1rem;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.feature-link:hover {
+  color: var(--secondary-color);
+}
